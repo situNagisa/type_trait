@@ -25,6 +25,9 @@
     <ClInclude Include="include\nagisa\type_trait\detail\modifier.h" />
     <ClInclude Include="include\nagisa\type_trait\type_trait.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="example\main.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
